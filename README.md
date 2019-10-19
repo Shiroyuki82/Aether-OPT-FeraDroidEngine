@@ -40,7 +40,7 @@ Do everything at your own risk!</code><br></p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-All Credits served to Owner
+All Credits served to Owners.
 -Feravolt
 -Niko
 -Dmitry
