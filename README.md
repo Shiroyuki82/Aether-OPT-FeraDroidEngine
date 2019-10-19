@@ -45,6 +45,8 @@ All Credits served to Owners.
 -Niko
 -Dmitry
 
-Other contributor, all of FDE Users are credited in this post. avoiding copyright strike 
+Other contributor, all of FDE Contributors/Users are credited in this post. avoiding copyright strike 
+
+-- This Repo doesn't clone FDE, nor reproducing it by other means, not bootlegs. i use FDE App by myself -- 
 
 
