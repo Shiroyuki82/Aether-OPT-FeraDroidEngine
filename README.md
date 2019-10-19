@@ -38,3 +38,13 @@ Do everything at your own risk!</code><br></p>
 
 [![HitCount](http://hits.dwyl.io/Magisk-Modules-Repo/FDE.svg)](http://hits.dwyl.io/Magisk-Modules-Repo/FDE)
 
+--------------------------------------------------------------------------------------------------------------------------------
+
+All Credits served to Owner
+-Feravolt
+-Niko
+-Dmitry
+
+Other contributor, all of FDE Users are credited in this post. avoiding copyright strike 
+
+
